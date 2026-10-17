@@ -64,11 +64,11 @@ A relational database system built for a real municipal client.
 **MySQL · SQL · PHP · Stored Procedures · Draw.io**
 
 * Designed the database in MySQL Workbench with enforced referential integrity across assets, staff, departments and work orders
-* ⚡ Automated prioritisation logic with SQL triggers and stored procedures, removing manual steps and reducing errors
-* 📊 Built management-facing views and UML diagrams
-* 🤝 Collaborated through the full design, build and test cycle
+* Automated prioritisation logic with SQL triggers and stored procedures, removing manual steps and reducing errors
+* Built management-facing views and UML diagrams
+* Collaborated through the full design, build and test cycle
 
-### 🧭 SkillSync: AI Career Roadmap Platform
+### SkillSync: AI Career Roadmap Platform
 
 A platform that turns skill gaps into personalised learning roadmaps.
 
@@ -92,7 +92,7 @@ A platform that turns skill gaps into personalised learning roadmaps.
 
 ## ☁️ Current Focus: Becoming a Cloud Engineer
 
-Working on a live application taught me how much of software is what happens *after* the code is written: data flowing between systems 🔀, integrations failing quietly, and workflows that need to stay reliable.
+Working on a live application taught me how much of software is what happens *after* the code is written: data flowing between systems, integrations failing quietly, and workflows that need to stay reliable.
 
 That's what pulled me towards the cloud. I'm building up my AWS knowledge so I can move from writing features to designing, deploying and securing the infrastructure they run on.
 
@@ -156,7 +156,7 @@ You'll find:
 
 Some repositories are polished ✨. Some are experiments 🧪. And some exist because I had a question and needed to find the answer.
 
-That's part of the journey. 🛤️
+That's part of the journey.
 
 ---
 
@@ -178,9 +178,9 @@ To grow into a Cloud Engineer who can take an application from:
 
 all the way to:
 
-**"...and it's running reliably in the cloud for the people who depend on it."** ☁️✅
+**"...and it's running reliably in the cloud for the people who depend on it."** 
 
-I'm looking for opportunities where I can learn from experienced engineers 👩🏾‍🏫, work on meaningful products and keep growing on AWS 🌱.
+I'm looking for opportunities where I can learn from experienced engineers, work on meaningful products and keep growing on AWS.
 
 ---
 
