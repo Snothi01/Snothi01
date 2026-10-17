@@ -5,9 +5,9 @@
 ### ` Junior Software Developer • ☁️ Aspiring AWS Cloud Engineer • 🔍 Problem Solver • 📚 Always Learning`
 
 
-I'm **Minenhle Ncala** 🙋🏾,a software developer with a BTech in Computer Engineering, based in Cape Town, South Africa 🇿🇦.
+I'm **Minenhle Ncala**,a software developer with a BTech in Computer Engineering, based in Cape Town, South Africa 🇿🇦.
 
-I like turning ideas into things people can actually use, from responsive front ends and API integrations to relational databases 🗄️ that hold real data together. Right now I'm building toward a career as a **Cloud Engineer on AWS** ☁️.
+I like turning ideas into things people can actually use, from responsive front ends and API integrations to relational databases that hold real data together. Right now I'm building toward a career as a **Cloud Engineer on AWS**.
 
 I'm the kind of developer who enjoys asking:
 
