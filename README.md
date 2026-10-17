@@ -2,7 +2,7 @@
 # 👋 Hey, I'm Minenhle Ncala
 
 
-### ` Junior Software Developer • ☁️ Aspiring AWS Cloud Engineer • 🔍 Problem Solver • 📚 Always Learning`
+### ` Junior Software Developer • Aspiring AWS Cloud Engineer • Problem Solver • Always Learning`
 
 
 I'm **Minenhle Ncala**,a software developer with a BTech in Computer Engineering, based in Cape Town, South Africa 🇿🇦.
