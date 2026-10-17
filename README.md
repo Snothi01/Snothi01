@@ -22,12 +22,12 @@ and then tracing it from symptom to root cause.
 * 🎓 BTech in Computer Engineering, Cape Peninsula University of Technology
 * 🏦 Graduate of the **FNB App Academy** Full Stack Development Programme
 * 💼 8 months of production experience as a Junior Software Developer
-* 💻 Building with **React ⚛️, JavaScript 🟨, HTML 🌐 & CSS 🎨**
+* 💻 Building with **React,JavaScript,HTML & CSS**
 * 🗄️ Working with **MySQL, SQL & stored procedures**
 * 🔌 Integrating and debugging **REST APIs** in a live application
-* ☁️ Completed the **AWS Certified Cloud Practitioner 21 Day Builder Sprint** 🏅 and working towards a career as an **AWS Cloud Engineer**
+* ☁️ Completed the **AWS Certified Cloud Practitioner 21 Day Builder Sprint** and working towards a career as an **AWS Cloud Engineer**
 * 🗣️ Comfortable explaining technical issues to both developers and non-technical stakeholders
-* 🧠 Quick to pick up new languages and tools, and happy to break things so I understand how to fix them 🔧
+* 🧠 Quick to pick up new languages and tools, and happy to break things so I understand how to fix them.
 
 ---
 
@@ -37,7 +37,7 @@ and then tracing it from symptom to root cause.
 
 `JavaScript (ES6+)` `Java` `Python` `SQL` `HTML` `CSS`
 
-### 🎨 Frontend
+### Frontend
 
 `React` `Tailwind CSS` `Chart.js` `Responsive Design`
 
@@ -49,7 +49,7 @@ and then tracing it from symptom to root cause.
 
 `Git` `GitHub` `VS Code` `Draw.io (UML/ERD)` `Agile`
 
-### ☁️ Exploring
+### Exploring
 
 `AWS` `EC2` `S3` `VPC` `RDS` `DynamoDB` `IAM` `CloudFormation` `CloudWatch` `Linux`
 
@@ -59,7 +59,7 @@ and then tracing it from symptom to root cause.
 
 ###  Infrastructure Maintenance DBMS: City of Johannesburg
 
-A relational database system built for a real municipal client , as part of a 5-person team 👥.
+A relational database system built for a real municipal client.
 
 **MySQL · SQL · PHP · Stored Procedures · Draw.io**
 
@@ -96,7 +96,7 @@ Working on a live application taught me how much of software is what happens *af
 
 That's what pulled me towards the cloud. I'm building up my AWS knowledge so I can move from writing features to designing, deploying and securing the infrastructure they run on.
 
-I recently completed the **AWS Certified Cloud Practitioner 21 Day Builder Sprint** 🏅, organised by Jcodebook. Over 21 days I worked through core AWS services across compute, storage, networking, databases, security, monitoring, governance and AI/ML.
+I recently completed the **AWS Certified Cloud Practitioner 21 Day Builder Sprint**, organised by Jcodebook. Over 21 days I worked through core AWS services across compute, storage, networking, databases, security, monitoring, governance and AI/ML.
 
 What I covered:
 
@@ -154,7 +154,7 @@ You'll find:
 * 🐛 Bugs that taught me something
 * 🔧 Work that is still evolving
 
-Some repositories are polished ✨. Some are experiments 🧪. And some exist because I had a question and needed to find the answer 🤓.
+Some repositories are polished ✨. Some are experiments 🧪. And some exist because I had a question and needed to find the answer.
 
 That's part of the journey. 🛤️
 
@@ -174,7 +174,7 @@ That's part of the journey. 🛤️
 
 To grow into a Cloud Engineer who can take an application from:
 
-**"It works on my machine"** 💻
+**"It works on my machine"**
 
 all the way to:
 
@@ -186,7 +186,7 @@ I'm looking for opportunities where I can learn from experienced engineers 👩�
 
 ## 🤝 Let's Connect
 
-If you're interested in software, cloud, or just building things that work... 🛠️
+If you're interested in software, cloud, or just building things that work..
 
 I'd love to connect. 💬
 
